@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,ca1lib.org
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,imgtu.com
+  - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,libgen.is
   - DOMAIN-SUFFIX,lihkg.com
   - DOMAIN-SUFFIX,lih.kg
