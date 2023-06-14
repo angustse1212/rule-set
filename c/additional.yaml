@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,ca1lib.org
   - DOMAIN-SUFFIX,civitai.com
+  - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,fanqiangdang.com
   - DOMAIN-SUFFIX,hk01.com
   - DOMAIN-SUFFIX,hostloc.com
