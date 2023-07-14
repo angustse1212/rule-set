@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,quillbot.com
   - DOMAIN-SUFFIX,ravenjs.com
   - DOMAIN-SUFFIX,rfa.org
+  - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,tvboxnow.com
   - DOMAIN-SUFFIX,unwire.hk
