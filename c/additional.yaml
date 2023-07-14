@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,rfa.org
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,tvboxnow.com
   - DOMAIN-SUFFIX,unwire.hk
   - DOMAIN-SUFFIX,upload.cc

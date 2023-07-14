@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,ravenjs.com,PROXY
 DOMAIN-SUFFIX,rfa.org,PROXY
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
 DOMAIN-SUFFIX,steampowered.com,PROXY
+DOMAIN-SUFFIX,steamstatic.com,PROXY
 DOMAIN-SUFFIX,tvboxnow.com,PROXY
 DOMAIN-SUFFIX,unwire.hk,PROXY
 DOMAIN-SUFFIX,upload.cc,PROXY
