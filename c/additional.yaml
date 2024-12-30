@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,imgtu.com
   - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,jensingvarsson.com
   - DOMAIN-SUFFIX,justinguitar.com
   - DOMAIN-SUFFIX,libgen.is
