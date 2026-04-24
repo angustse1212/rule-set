@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,ca1lib.org
   - DOMAIN-SUFFIX,civitai.com
   - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,cstserver.com
   - DOMAIN-SUFFIX,fanqiangdang.com
   - DOMAIN-SUFFIX,fivetiu.com
   - DOMAIN-SUFFIX,hk01.com
